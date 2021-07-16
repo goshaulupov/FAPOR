@@ -250,3 +250,7 @@ footer .btn_social:hover i{
     border-radius: 70%;
     margin-bottom: 117px;
 }
+.clients
+{
+    border-bottom: #2d3037 solid 3px;
+}
