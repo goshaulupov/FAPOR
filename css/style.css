@@ -246,6 +246,7 @@ footer .btn_social:hover i{
 }
 .btn_show
 {
+    border: black solid 1px;
     border-radius: 50%;
     margin-bottom: 117px;
 }
